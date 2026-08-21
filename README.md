@@ -14,8 +14,7 @@ python3 grade_tracker.py
 
 ## Output
 
-The program will print the summary to the terminal and create the file called grade_rep
-ort.txt with the full class grade report.
+The program will print the summary to the terminal and create the file called grade_report.txt with the full class grade report.
 
 ## Files 
 
